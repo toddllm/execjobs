@@ -1,0 +1,430 @@
+2025-01-17 12:21:30,229 - INFO - 
+Analyzing Microsoft Corporation (MSFT)
+2025-01-17 12:21:30,229 - DEBUG - Expected stage: advanced
+2025-01-17 12:21:30,229 - DEBUG - Getting benchmarks for Technology
+2025-01-17 12:21:30,229 - DEBUG - Industry benchmarks: {'mention_threshold': 50, 'investment_threshold': 0.15}
+2025-01-17 12:21:30,230 - DEBUG - Stub: Would analyze earnings calls for MSFT
+2025-01-17 12:21:30,230 - DEBUG - Stub: Would analyze job postings for MSFT
+2025-01-17 12:21:30,230 - DEBUG - Stub: Would analyze patents for MSFT
+2025-01-17 12:21:30,230 - DEBUG - Initial metrics for MSFT:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:21:30,230 - INFO - 
+Analyzing NVIDIA Corporation (NVDA)
+2025-01-17 12:21:30,230 - DEBUG - Expected stage: advanced
+2025-01-17 12:21:30,230 - DEBUG - Getting benchmarks for Technology
+2025-01-17 12:21:30,231 - DEBUG - Industry benchmarks: {'mention_threshold': 50, 'investment_threshold': 0.15}
+2025-01-17 12:21:30,231 - DEBUG - Stub: Would analyze earnings calls for NVDA
+2025-01-17 12:21:30,231 - DEBUG - Stub: Would analyze job postings for NVDA
+2025-01-17 12:21:30,231 - DEBUG - Stub: Would analyze patents for NVDA
+2025-01-17 12:21:30,231 - DEBUG - Initial metrics for NVDA:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:21:30,231 - INFO - 
+Analyzing Walmart Inc. (WMT)
+2025-01-17 12:21:30,231 - DEBUG - Expected stage: intermediate
+2025-01-17 12:21:30,231 - DEBUG - Getting benchmarks for Retail
+2025-01-17 12:21:30,232 - DEBUG - Industry benchmarks: {'mention_threshold': 20, 'investment_threshold': 0.05}
+2025-01-17 12:21:30,232 - DEBUG - Stub: Would analyze earnings calls for WMT
+2025-01-17 12:21:30,232 - DEBUG - Stub: Would analyze job postings for WMT
+2025-01-17 12:21:30,232 - DEBUG - Stub: Would analyze patents for WMT
+2025-01-17 12:21:30,232 - DEBUG - Initial metrics for WMT:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:21:30,232 - INFO - 
+Analyzing Bank of America Corporation (BAC)
+2025-01-17 12:21:30,232 - DEBUG - Expected stage: intermediate
+2025-01-17 12:21:30,232 - DEBUG - Getting benchmarks for Financial Services
+2025-01-17 12:21:30,233 - DEBUG - Industry benchmarks: {'mention_threshold': 30, 'investment_threshold': 0.1}
+2025-01-17 12:21:30,233 - DEBUG - Stub: Would analyze earnings calls for BAC
+2025-01-17 12:21:30,233 - DEBUG - Stub: Would analyze job postings for BAC
+2025-01-17 12:21:30,233 - DEBUG - Stub: Would analyze patents for BAC
+2025-01-17 12:21:30,233 - DEBUG - Initial metrics for BAC:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:21:30,233 - INFO - 
+Analyzing Caterpillar Inc. (CAT)
+2025-01-17 12:21:30,233 - DEBUG - Expected stage: early
+2025-01-17 12:21:30,233 - DEBUG - Getting benchmarks for Manufacturing
+2025-01-17 12:21:30,234 - DEBUG - Industry benchmarks: {'mention_threshold': 15, 'investment_threshold': 0.08}
+2025-01-17 12:21:30,234 - DEBUG - Stub: Would analyze earnings calls for CAT
+2025-01-17 12:21:30,234 - DEBUG - Stub: Would analyze job postings for CAT
+2025-01-17 12:21:30,234 - DEBUG - Stub: Would analyze patents for CAT
+2025-01-17 12:21:30,234 - DEBUG - Initial metrics for CAT:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:21:30,234 - INFO - 
+Analyzing 3M Company (MMM)
+2025-01-17 12:21:30,234 - DEBUG - Expected stage: planning
+2025-01-17 12:21:30,235 - DEBUG - Getting benchmarks for Manufacturing
+2025-01-17 12:21:30,235 - DEBUG - Industry benchmarks: {'mention_threshold': 15, 'investment_threshold': 0.08}
+2025-01-17 12:21:30,235 - DEBUG - Stub: Would analyze earnings calls for MMM
+2025-01-17 12:21:30,235 - DEBUG - Stub: Would analyze job postings for MMM
+2025-01-17 12:21:30,235 - DEBUG - Stub: Would analyze patents for MMM
+2025-01-17 12:21:30,235 - DEBUG - Initial metrics for MMM:
+- AI Mentions in calls: 0
+- AI job postings: 0
+- AI patents: 0
+2025-01-17 12:23:33,600 - INFO - 
+Analyzing Microsoft Corporation (MSFT)
+2025-01-17 12:23:33,600 - DEBUG - Fetching financial data from: https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json
+2025-01-17 12:23:34,441 - DEBUG - Successfully retrieved XBRL data
+2025-01-17 12:23:34,441 - DEBUG - Extracted metrics: {
+  "revenue": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "rd_expenses": [
+    {
+      "year": "2022",
+      "value": 17663000000
+    },
+    {
+      "year": "2023",
+      "value": 20456000000
+    },
+    {
+      "year": "2024",
+      "value": 21454000000
+    }
+  ],
+  "operating_expenses": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "net_income": [
+    {
+      "year": "2022",
+      "value": 55998000000
+    },
+    {
+      "year": "2023",
+      "value": 52280000000
+    },
+    {
+      "year": "2024",
+      "value": 66100000000
+    }
+  ]
+}
+2025-01-17 12:23:34,549 - DEBUG - Financial metrics retrieved for MSFT
+2025-01-17 12:23:34,549 - DEBUG - Fetching filings from: https://data.sec.gov/submissions/CIK0000789019.json
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2024-10-30
+2025-01-17 12:23:34,848 - DEBUG - Found 10-K filing from 2024-07-30
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2024-04-25
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2024-01-30
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2023-10-24
+2025-01-17 12:23:34,848 - DEBUG - Found 10-K filing from 2023-07-27
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2023-04-25
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2023-01-24
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2022-10-25
+2025-01-17 12:23:34,848 - DEBUG - Found 10-K filing from 2022-07-28
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2022-04-26
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2022-01-25
+2025-01-17 12:23:34,848 - DEBUG - Found 10-Q filing from 2021-10-26
+2025-01-17 12:23:34,849 - DEBUG - Found 10-K filing from 2021-07-29
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2021-04-27
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2021-01-26
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2020-10-27
+2025-01-17 12:23:34,849 - DEBUG - Found 10-K filing from 2020-07-30
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2020-04-29
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2020-01-29
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2019-10-23
+2025-01-17 12:23:34,849 - DEBUG - Found 10-K filing from 2019-08-01
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2019-04-24
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2019-01-30
+2025-01-17 12:23:34,849 - DEBUG - Found 10-Q filing from 2018-10-24
+2025-01-17 12:23:34,954 - DEBUG - Retrieved 25 filings for MSFT
+2025-01-17 12:23:34,954 - DEBUG - Analysis results for MSFT:
+Revenue: $0.00
+R&D: $21,454,000,000.00
+R&D Ratio: 0.00%
+AI Mentions: 100
+2025-01-17 12:23:34,954 - INFO - 
+Analyzing NVIDIA Corporation (NVDA)
+2025-01-17 12:23:34,954 - DEBUG - Fetching financial data from: https://data.sec.gov/api/xbrl/companyfacts/CIK0001045810.json
+2025-01-17 12:23:35,658 - DEBUG - Successfully retrieved XBRL data
+2025-01-17 12:23:35,659 - DEBUG - Extracted metrics: {
+  "revenue": [
+    {
+      "year": "2022",
+      "value": 26914000000
+    },
+    {
+      "year": "2023",
+      "value": 26974000000
+    },
+    {
+      "year": "2024",
+      "value": 60922000000
+    }
+  ],
+  "rd_expenses": [
+    {
+      "year": "2022",
+      "value": 5268000000
+    },
+    {
+      "year": "2023",
+      "value": 7339000000
+    },
+    {
+      "year": "2024",
+      "value": 8675000000
+    }
+  ],
+  "operating_expenses": [
+    {
+      "year": "2022",
+      "value": 7434000000
+    },
+    {
+      "year": "2023",
+      "value": 11132000000
+    },
+    {
+      "year": "2024",
+      "value": 11329000000
+    }
+  ],
+  "net_income": [
+    {
+      "year": "2022",
+      "value": 9752000000
+    },
+    {
+      "year": "2023",
+      "value": 4368000000
+    },
+    {
+      "year": "2024",
+      "value": 29760000000
+    }
+  ]
+}
+2025-01-17 12:23:35,767 - DEBUG - Financial metrics retrieved for NVDA
+2025-01-17 12:23:35,767 - DEBUG - Fetching filings from: https://data.sec.gov/submissions/CIK0001045810.json
+2025-01-17 12:23:36,096 - DEBUG - Found 10-Q filing from 2024-11-20
+2025-01-17 12:23:36,096 - DEBUG - Found 10-Q filing from 2024-08-28
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2024-05-29
+2025-01-17 12:23:36,097 - DEBUG - Found 10-K filing from 2024-02-21
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2023-11-21
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2023-08-28
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2023-05-26
+2025-01-17 12:23:36,097 - DEBUG - Found 10-K filing from 2023-02-24
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2022-11-18
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2022-08-31
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2022-05-27
+2025-01-17 12:23:36,097 - DEBUG - Found 10-K filing from 2022-03-18
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2021-11-22
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2021-08-20
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2021-05-26
+2025-01-17 12:23:36,097 - DEBUG - Found 10-K filing from 2021-02-26
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2020-11-18
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2020-08-19
+2025-01-17 12:23:36,097 - DEBUG - Found 10-Q filing from 2020-05-21
+2025-01-17 12:23:36,098 - DEBUG - Found 10-K filing from 2020-02-20
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2019-11-14
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2019-08-15
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2019-05-16
+2025-01-17 12:23:36,098 - DEBUG - Found 10-K filing from 2019-02-21
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2018-11-15
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2018-08-16
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2018-05-22
+2025-01-17 12:23:36,098 - DEBUG - Found 10-K filing from 2018-02-28
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2017-11-21
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2017-08-23
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2017-05-23
+2025-01-17 12:23:36,098 - DEBUG - Found 10-K filing from 2017-03-01
+2025-01-17 12:23:36,098 - DEBUG - Found 10-Q filing from 2016-11-22
+2025-01-17 12:23:36,204 - DEBUG - Retrieved 33 filings for NVDA
+2025-01-17 12:23:36,204 - DEBUG - Analysis results for NVDA:
+Revenue: $60,922,000,000.00
+R&D: $8,675,000,000.00
+R&D Ratio: 14.24%
+AI Mentions: 132
+2025-01-17 12:23:36,204 - INFO - 
+Analyzing Walmart Inc. (WMT)
+2025-01-17 12:23:36,204 - DEBUG - Fetching financial data from: https://data.sec.gov/api/xbrl/companyfacts/CIK0000104169.json
+2025-01-17 12:23:36,859 - DEBUG - Successfully retrieved XBRL data
+2025-01-17 12:23:36,859 - DEBUG - Extracted metrics: {
+  "revenue": [
+    {
+      "year": "2022",
+      "value": 572754000000
+    },
+    {
+      "year": "2023",
+      "value": 611289000000
+    },
+    {
+      "year": "2024",
+      "value": 648125000000
+    }
+  ],
+  "rd_expenses": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "operating_expenses": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "net_income": [
+    {
+      "year": "2022",
+      "value": 13673000000
+    },
+    {
+      "year": "2023",
+      "value": 11680000000
+    },
+    {
+      "year": "2024",
+      "value": 15511000000
+    }
+  ]
+}
+2025-01-17 12:23:36,966 - DEBUG - Financial metrics retrieved for WMT
+2025-01-17 12:23:36,966 - DEBUG - Fetching filings from: https://data.sec.gov/submissions/CIK0000104169.json
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2024-12-06
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2024-08-30
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2024-06-07
+2025-01-17 12:23:37,234 - DEBUG - Found 10-K filing from 2024-03-15
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2023-11-30
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2023-09-01
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2023-06-02
+2025-01-17 12:23:37,234 - DEBUG - Found 10-K filing from 2023-03-17
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2022-12-01
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2022-09-02
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2022-06-03
+2025-01-17 12:23:37,234 - DEBUG - Found 10-K filing from 2022-03-18
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2021-12-01
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2021-09-02
+2025-01-17 12:23:37,234 - DEBUG - Found 10-Q filing from 2021-06-04
+2025-01-17 12:23:37,234 - DEBUG - Found 10-K filing from 2021-03-19
+2025-01-17 12:23:37,339 - DEBUG - Retrieved 16 filings for WMT
+2025-01-17 12:23:37,339 - DEBUG - Analysis results for WMT:
+Revenue: $648,125,000,000.00
+R&D: $0.00
+R&D Ratio: 0.00%
+AI Mentions: 64
+2025-01-17 12:23:37,339 - INFO - 
+Analyzing Bank of America Corporation (BAC)
+2025-01-17 12:23:37,339 - DEBUG - Fetching financial data from: https://data.sec.gov/api/xbrl/companyfacts/CIK0000070858.json
+2025-01-17 12:23:37,870 - DEBUG - Successfully retrieved XBRL data
+2025-01-17 12:23:37,870 - DEBUG - Extracted metrics: {
+  "revenue": [
+    {
+      "year": "2022",
+      "value": 23228000000
+    },
+    {
+      "year": "2023",
+      "value": 26258000000
+    },
+    {
+      "year": "2024",
+      "value": 25818000000
+    }
+  ],
+  "rd_expenses": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "operating_expenses": [
+    {
+      "year": "2022",
+      "value": 0
+    },
+    {
+      "year": "2023",
+      "value": 0
+    },
+    {
+      "year": "2024",
+      "value": 0
+    }
+  ],
+  "net_income": [
+    {
+      "year": "2022",
+      "value": 7067000000
+    },
+    {
+      "year": "2023",
+      "value": 8161000000
+    },
+    {
+      "year": "2024",
+      "value": 6674000000
+    }
+  ]
+}
+2025-01-17 12:23:37,980 - DEBUG - Financial metrics retrieved for BAC
+2025-01-17 12:23:37,980 - DEBUG - Fetching filings from: https://data.sec.gov/submissions/CIK0000070858.json
+2025-01-17 12:23:38,317 - DEBUG - Found 10-Q filing from 2024-10-29
+2025-01-17 12:23:38,317 - DEBUG - Found 10-Q filing from 2024-07-30
+2025-01-17 12:23:38,317 - DEBUG - Found 10-Q filing from 2024-04-30
+2025-01-17 12:23:38,317 - DEBUG - Found 10-K filing from 2024-02-20
+2025-01-17 12:23:38,424 - DEBUG - Retrieved 4 filings for BAC
+2025-01-17 12:23:38,424 - DEBUG - Analysis results for BAC:
+Revenue: $25,818,000,000.00
+R&D: $0.00
+R&D Ratio: 0.00%
+AI Mentions: 16
