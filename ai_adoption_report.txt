@@ -1,0 +1,228 @@
+
+AI Adoption Analysis Report
+========================
+
+Information Technology
+----------------------
+Companies analyzed: 69
+Average AI Readiness Score: 25.9
+Average R&D to Revenue: 31.95%
+
+Key Opportunities:
+* Applied Materials (AMAT)
+  - AI Readiness Score: 28.1
+  - Recent AI Momentum: 76.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Cisco (CSCO)
+  - AI Readiness Score: 25.2
+  - Recent AI Momentum: 133.3%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Fortinet (FTNT)
+  - AI Readiness Score: 0.6
+  - Recent AI Momentum: 33.3%
+  - Assessment: Promising - Starting AI initiatives
+* Intuit (INTU)
+  - AI Readiness Score: 21.1
+  - Recent AI Momentum: 27.8%
+  - Assessment: Promising - Starting AI initiatives
+* Keysight Technologies (KEYS)
+  - AI Readiness Score: 25.9
+  - Recent AI Momentum: 25.0%
+  - Assessment: Promising - Starting AI initiatives
+* Microchip Technology (MCHP)
+  - AI Readiness Score: 1.8
+  - Recent AI Momentum: 200.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Palo Alto Networks (PANW)
+  - AI Readiness Score: 1.1
+  - Recent AI Momentum: 65.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Synopsys (SNPS)
+  - AI Readiness Score: 2.0
+  - Recent AI Momentum: 550.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* TE Connectivity (TEL)
+  - AI Readiness Score: 0.2
+  - Recent AI Momentum: 250.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+
+Health Care
+-----------
+Companies analyzed: 61
+Average AI Readiness Score: 5.6
+Average R&D to Revenue: 15.58%
+
+Key Opportunities:
+* Agilent Technologies (A)
+  - AI Readiness Score: 0.5
+  - Recent AI Momentum: 250.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Amgen (AMGN)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 20.0%
+  - Assessment: Promising - Starting AI initiatives
+* Becton Dickinson (BDX)
+  - AI Readiness Score: 0.3
+  - Recent AI Momentum: 900.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Cardinal Health (CAH)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Centene Corporation (CNC)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 300.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Elevance Health (ELV)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Hologic (HOLX)
+  - AI Readiness Score: 0.3
+  - Recent AI Momentum: 750.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Incyte (INCY)
+  - AI Readiness Score: 3.1
+  - Recent AI Momentum: 10.0%
+  - Assessment: Promising - Starting AI initiatives
+
+Industrials
+-----------
+Companies analyzed: 78
+Average AI Readiness Score: 10.5
+Average R&D to Revenue: 5.16%
+
+Key Opportunities:
+* Automatic Data Processing (ADP)
+  - AI Readiness Score: 25.1
+  - Recent AI Momentum: 600.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Axon Enterprise (AXON)
+  - AI Readiness Score: 1.0
+  - Recent AI Momentum: 33.3%
+  - Assessment: Promising - Starting AI initiatives
+* Caterpillar Inc. (CAT)
+  - AI Readiness Score: 0.2
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Deere & Company (DE)
+  - AI Readiness Score: 0.2
+  - Recent AI Momentum: 600.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Jacobs Solutions (J)
+  - AI Readiness Score: 25.0
+  - Recent AI Momentum: 450.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Uber (UBER)
+  - AI Readiness Score: 0.4
+  - Recent AI Momentum: 5.0%
+  - Assessment: Promising - Starting AI initiatives
+
+Consumer Staples
+----------------
+Companies analyzed: 37
+Average AI Readiness Score: 9.2
+Average R&D to Revenue: 1.63%
+
+Key Opportunities:
+* Constellation Brands (STZ)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Philip Morris International (PM)
+  - AI Readiness Score: 25.1
+  - Recent AI Momentum: 66.7%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Walgreens Boots Alliance (WBA)
+  - AI Readiness Score: 25.0
+  - Recent AI Momentum: 50.0%
+  - Assessment: Promising - Starting AI initiatives
+* Walmart (WMT)
+  - AI Readiness Score: 10.0
+  - Recent AI Momentum: 50.0%
+  - Assessment: Promising - Starting AI initiatives
+
+Real Estate
+-----------
+Companies analyzed: 31
+Average AI Readiness Score: 5.0
+Average R&D to Revenue: 0.00%
+
+Key Opportunities:
+* BXP, Inc. (BXP)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 300.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* Realty Income (O)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+* UDR, Inc. (UDR)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 200.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+
+Financials
+----------
+Companies analyzed: 72
+Average AI Readiness Score: 8.7
+Average R&D to Revenue: 0.59%
+
+Key Opportunities:
+* Goldman Sachs (GS)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 20.0%
+  - Assessment: Promising - Starting AI initiatives
+* Marsh McLennan (MMC)
+  - AI Readiness Score: 25.0
+  - Recent AI Momentum: 16.7%
+  - Assessment: Promising - Starting AI initiatives
+
+Utilities
+---------
+Companies analyzed: 31
+Average AI Readiness Score: 4.1
+Average R&D to Revenue: 0.01%
+
+Key Opportunities:
+* Xcel Energy (XEL)
+  - AI Readiness Score: 0.0
+  - Recent AI Momentum: 200.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+
+Materials
+---------
+Companies analyzed: 28
+Average AI Readiness Score: 3.5
+Average R&D to Revenue: 1.63%
+
+Key Opportunities:
+* DuPont (DD)
+  - AI Readiness Score: 25.1
+  - Recent AI Momentum: 100.0%
+  - Assessment: High Potential - Early in AI journey with strong momentum
+
+Consumer Discretionary
+----------------------
+Companies analyzed: 50
+Average AI Readiness Score: 6.5
+Average R&D to Revenue: 1.58%
+
+No significant opportunities identified in this sector.
+
+Communication Services
+----------------------
+Companies analyzed: 22
+Average AI Readiness Score: 9.5
+Average R&D to Revenue: 6.01%
+
+No significant opportunities identified in this sector.
+
+Energy
+------
+Companies analyzed: 22
+Average AI Readiness Score: 6.2
+Average R&D to Revenue: 0.67%
+
+No significant opportunities identified in this sector.
+
